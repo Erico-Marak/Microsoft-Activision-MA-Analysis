@@ -115,15 +115,6 @@ Microsoft-Activision-MA-Analysis/
 
 ---
 
-## Author
-
-**Erico N Marak**
-
-B.Tech in Computer Science & Engineering  
-National Institute of Technology Meghalaya
-
----
-
 ## Disclaimer
 
 This project was created for educational. Financial figures are derived from publicly available annual reports and publicly announced transaction information.
