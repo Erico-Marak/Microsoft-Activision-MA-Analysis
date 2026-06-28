@@ -1,17 +1,27 @@
 # Microsoft's Acquisition of Activision Blizzard – Mergers & Acquisitions Analysis
 
 ## Overview
-This project presents a financial analysis of Microsoft's acquisition of Activision Blizzard using Microsoft Excel. The analysis evaluates the financial impact of the acquisition through valuation metrics, financial ratio analysis, synergy estimation, and accretion/dilution analysis.
+
+This project presents a financial analysis of Microsoft's acquisition of Activision Blizzard using Microsoft Excel. The analysis evaluates the financial impact of the acquisition through valuation techniques, financial statement analysis, synergy estimation, and accretion/dilution analysis.
+
+---
+
+# Project Preview
+
+## Executive Dashboard
+
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## Project Objectives
+
 - Analyze the financial performance of Microsoft and Activision Blizzard.
 - Estimate the enterprise value of the acquisition.
 - Calculate the acquisition premium.
 - Evaluate expected revenue and cost synergies.
 - Measure the impact of the acquisition on Microsoft's earnings.
-- Present key insights through an interactive dashboard.
+- Present key financial insights through an executive dashboard.
 
 ---
 
@@ -37,7 +47,7 @@ Comparison of Microsoft (FY2023) and Activision Blizzard (FY2022):
 - Free Cash Flow
 - EBITDA
 
-Financial ratios:
+Financial Ratios:
 - Revenue Growth
 - Gross Margin
 - Operating Margin
@@ -69,12 +79,41 @@ Executive summary of:
 - Deal Value
 - Purchase Premium
 - Combined Revenue
-- Synergies
+- Annual Synergies
+- Net Synergies
 - Accretion / Dilution
 
 ---
 
+# Workbook Screenshots
+
+## Deal Overview
+
+![Deal Overview](images/deal_overview.png)
+
+
+---
+
+## Financial Analysis
+
+![Financial Analysis](images/financial_analysis.png)
+
+---
+
+## Valuation
+
+![Valuation](images/valuation.png)
+
+---
+
+## Dashboard
+
+![Dashboard](images/dashboard_final.png)
+
+---
+
 ## Financial Data Sources
+
 - Microsoft Annual Report FY2023
 - Activision Blizzard Annual Report FY2022
 - Microsoft Acquisition Announcement
@@ -82,10 +121,11 @@ Executive summary of:
 ---
 
 ## Tools Used
+
 - Microsoft Excel
 - Financial Statement Analysis
-- Ratio Analysis
-- Valuation Techniques
+- Financial Ratio Analysis
+- Enterprise Valuation
 - Mergers & Acquisitions (M&A)
 
 ---
@@ -94,27 +134,45 @@ Executive summary of:
 
 | Metric | Value |
 |---------|-------|
-| Deal Value (Enterprise Value) | USD 71.1 Billion |
-| Purchase Premium | 45.3% |
-| Combined Revenue | USD 219.4 Billion |
-| Annual Synergies | USD 800 Million |
-| Net Synergies (Year 1) | (USD 200 Million) |
-| Accretion/Dilution | 1.81% |
+| Deal Value (Enterprise Value) | **USD 71.1 Billion** |
+| Purchase Premium | **45.3%** |
+| Combined Revenue | **USD 219.4 Billion** |
+| Annual Synergies | **USD 800 Million** |
+| Net Synergies (Year 1) | **(USD 200 Million)** |
+| Accretion / Dilution | **1.81%** |
 
 ---
 
-## Repository Contents
+## Repository Structure
 
 ```
 Microsoft-Activision-MA-Analysis/
 │
-├── Mergers & Acquisitions Analysis Microsoft's Acquisition of Activision Blizzard.xlsx
+├── Microsoft_Activision_Blizzard_MA_Analysis.xlsx
 ├── Microsoft Acquisition Announcement.pdf
-└── README.md
+├── README.md
+└── images/
+    ├── dashboard.png
+    ├── deal_overview.png
+    ├── financial_analysis.png
+    ├── valuation.png
+    └── dashboard_final.png
 ```
+
+---
+
+## Author
+
+**Erico N Marak**
+
+B.Tech in Computer Science & Engineering  
+National Institute of Technology Meghalaya
+
+- LinkedIn: https://www.linkedin.com/in/erico-n-marak-a9718a28a
+- GitHub: https://github.com/Erico-Marak
 
 ---
 
 ## Disclaimer
 
-This project was created for educational. Financial figures are derived from publicly available annual reports and publicly announced transaction information.
+This project was developed for educational and portfolio purposes only. Financial figures are derived from publicly available annual reports and Microsoft's official acquisition announcement.
