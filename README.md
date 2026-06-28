@@ -10,7 +10,17 @@ This project presents a financial analysis of Microsoft's acquisition of Activis
 
 ## Executive Dashboard
 
-![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/efd4af9ef783d09c808e3be159b98143b9ba7a25/Deal%20Overview.png)
+![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/efd4af9ef783d09c808e3be159b98143b9ba7a25/Deal%20Overview.png) 
+
+![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/bbcb789df1c4fac629a6a2bab54dede6440f28a8/Financial%20Analysis.png)
+
+![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/bbcb789df1c4fac629a6a2bab54dede6440f28a8/Valuation.png)
+
+![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/bbcb789df1c4fac629a6a2bab54dede6440f28a8/Synergies.png)
+
+![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/bbcb789df1c4fac629a6a2bab54dede6440f28a8/Acceretion%20Dilution.png)
+
+![Dashboard](https://github.com/Erico-Marak/Microsoft-Activision-MA-Analysis/blob/bbcb789df1c4fac629a6a2bab54dede6440f28a8/Dashboard.png)
 
 ---
 
